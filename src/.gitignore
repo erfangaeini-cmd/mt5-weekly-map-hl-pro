@@ -1,0 +1,4 @@
+# MT5 build/artifacts
+*.ex5
+*.log
+*.cache
